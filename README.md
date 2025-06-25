@@ -4,5 +4,27 @@
 
 🤖 I'm currently exploring the exciting fields of **Machine Learning** and **Artificial Intelligence**, combining software engineering principles with intelligent systems to solve real-world problems.
 
+---
+
+## 🛠 Tech Stack
+
+- 🐍 Python, TypeScript, JavaScript
+- ⚙️ Flask, FastAPI, Node.js, Express.js
+- 🗄️ PostgreSQL, MongoDB, MySQL, Redis
+- 🐳 Docker, NGINX, Git, Linux
+- 💻 VS Code, Postman, GitHub Actions
+
+---
+
+## 📂 Projects
+
+### annotate-x
+
+*A full-stack web application that allows users to annotate images using bounding boxes and export labeled datasets in COCO format*
+
+> 🛠 Flask · PostgreSQL · Preact · Tailwind CSS · Docker
+
+🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-x)
+
 
 
