@@ -140,6 +140,6 @@
 
 ## 📬 Get in Touch
 
-- 📧 Email: [daniell.olaitan@gmail.com](daniell.olaitan@gmail.com) 
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 📧 Email: daniell.olaitan@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniell-olaitan/)  
+- 🐦 [Twitter](https://twitter.com/daniell_olaitan)  
