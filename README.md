@@ -22,7 +22,7 @@
 
 *A full-stack web application that allows users to annotate images using bounding boxes and export labeled datasets in COCO format*
 
-> 🛠 Python · JavaScript · Flask · PostgreSQL · Preact · Tailwind CSS · Docker
+> 🛠 Python · JavaScript · Flask · PostgreSQL · Jinja · HTML · Preact · Tailwind CSS · Docker
 
 🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-x)
 
@@ -31,7 +31,7 @@
 
 *Detects Bible references in real-time preaching using speech recognition.*
 
-> 🛠 Python · JaveScript · FastAPI · Preact · Tailwind CSS · WebSockets · Speech-to-Text API
+> 🛠 Python · JaveScript · FastAPI · Jinja · HTML · Preact · Tailwind CSS · WebSockets · Speech-to-Text API
 
 🔗 [GitHub Repository](https://github.com/daniell-olaitan/preach-sync)
 
@@ -49,7 +49,7 @@
 
 *Job Crawler is a web application that connects job seekers with remote opportunities by allowing companies to post jobs and users to apply. It features admin roles for managing listings and users, and was built to strengthen my backend skills in Python, Flask, and database management.*
 
-> 🛠 Python · JavaScript · Flask · MySQL · CSS
+> 🛠 Python · JavaScript · Flask · Jinja · HTML · MySQL · CSS
 
 [GitHub Repository](https://github.com/daniell-olaitan/job-crawler)
 
@@ -58,7 +58,7 @@
 
 *A full-stack web application that allows users to annotate images using bounding boxes and export labeled datasets in COCO format*
 
-> 🛠 Python · JavaScript · FastAPI · PostgreSQL · Preact · Tailwind CSS · Docker
+> 🛠 Python · JavaScript · FastAPI · PostgreSQL · Jinja · Preact · Tailwind CSS · Docker
 
 🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-xfastapi)
 
@@ -67,9 +67,18 @@
 
 *Web Application (AirBnB) Replica with Minimal Features*
 
-> 🛠 Python · JavaScript · Flask · MySQL · CSS
+> 🛠 Python · JavaScript · Flask · Jinja · HTML · MySQL · CSS
 
 [GitHub Repository1](https://github.com/daniell-olaitan/job-crawler) · [GitHub Repository1](https://github.com/Halabitimoty/AirBnB_clone) · [GitHub Repository2](https://github.com/daniell-olaitan/AirBnB_clone_v2) · [GitHub Repository3](https://github.com/nompy472/AirBnB_clone_v3) · [GitHub Repository4](https://github.com/daniell-olaitan/AirBnB_clone_v4)
+
+
+### Portfolio
+
+*A Comprehensive Solution for Building and Managing Personal Portfolios*
+
+> 🛠 Python · Flask · JavaScript · Redis · Celery · MySQL · Nginx · Gunicorn · HTML · Jinja · CSS
+
+[GitHub Repository](https://github.com/daniell-olaitan/portfolio)
 
 ## 🎓 Experience
 
