@@ -44,6 +44,33 @@
 
 🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-x-express)
 
+
+### job-crawler
+
+*Job Crawler is a web application that connects job seekers with remote opportunities by allowing companies to post jobs and users to apply. It features admin roles for managing listings and users, and was built to strengthen my backend skills in Python, Flask, and database management.*
+
+> 🛠 Python · JavaScript · Flask · MySQL · CSS
+
+[GitHub Repository](https://github.com/daniell-olaitan/job-crawler)
+
+
+### annotate-x-fastapi
+
+*A full-stack web application that allows users to annotate images using bounding boxes and export labeled datasets in COCO format*
+
+> 🛠 Python · JavaScript · FastAPI · PostgreSQL · Preact · Tailwind CSS · Docker
+
+🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-xfastapi)
+
+
+### AirBnB Clone
+
+*Web Application (AirBnB) Replica with Minimal Features*
+
+> 🛠 Python · JavaScript · Flask · MySQL · CSS
+
+[GitHub Repository1](https://github.com/daniell-olaitan/job-crawler) · [GitHub Repository1](https://github.com/Halabitimoty/AirBnB_clone) · [GitHub Repository2](https://github.com/daniell-olaitan/AirBnB_clone_v2) · [GitHub Repository3](https://github.com/nompy472/AirBnB_clone_v3) · [GitHub Repository4](https://github.com/daniell-olaitan/AirBnB_clone_v4)
+
 ## 🎓 Experience
 
 ### 👨‍💻 Backend Developer Intern — *Softrays Institute of Technology*
