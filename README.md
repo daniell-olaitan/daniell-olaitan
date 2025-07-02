@@ -16,6 +16,23 @@
 
 ---
 
+## 🎓 Experience
+
+### 👨‍💻 Backend Developer Intern — *Softrays Institute of Technology*
+- Developed REST APIs with Flask and PostgreSQL
+- Implemented secure auth with JWT and deployment via Docker
+
+### 🧪 Freelance Developer — *Algorithm Consultant for PhD Research*
+- Solved a fluid mechanics problem using custom algorithms in Python
+- Delivered what other devs failed to achieve in months
+
+---
+
+## 🌍 Open Source Contributions
+
+
+---
+
 ## 📂 Projects
 
 ### annotate-x
@@ -80,61 +97,49 @@
 
 [GitHub Repository](https://github.com/daniell-olaitan/portfolio)
 
-## 🎓 Experience
 
-### 👨‍💻 Backend Developer Intern — *Softrays Institute of Technology*
-- Developed REST APIs with Flask and PostgreSQL
-- Implemented secure auth with JWT and deployment via Docker
+### ALX Connect
 
-### 🧪 Freelance Developer — *Algorithm Consultant for PhD Research*
-- Solved a fluid mechanics problem using custom algorithms in Python
-- Delivered what other devs failed to achieve in months
+*A social presence for ALX students and alumni*
+
+> 🛠 Python · Flask · JavaScript · React · MySQL · HTML · Jinja · CSS
+
+[GitHub Repository](https://github.com/Triad01/Alxconnect)
 
 ---
 
 ## 🔍 Currently Learning
 
-- GraphQL for more flexible APIs
+- Scalable and Maintainable system design practices
+- Algorithm design and implementation
+- AI/ML with backend integration
 - CI/CD with GitHub Actions
-- Scalable system design practices
 
 ---
 
 ## 📚 Certifications
 
-- ✅ ALX Software Engineering Program – *In Progress*
-- ✅ Flask Mega-Tutorial – *by Miguel Grinberg*
-- ✅ CS50x: Introduction to Computer Science – *Harvard*
+- ✅ Software Engineering Program – *ALX Africa*
+- ✅ AI Career Essentials (AiCE – *ALX Africa*
 
 ---
 
 ## 🧠 Developer Philosophy
 
-> I aim to build meaningful, maintainable, and scalable backend systems that solve real-world problems. I care about code quality, developer experience, and continuous learning.
+> I aim to build meaningful, maintainable, and scalable backend and AI/ML systems that solve real-world problems. I care about code quality, developer experience, and continuous learning.
 
 ---
 
 ## 🎯 2025 Goals
 
-- 🧠 Build a secure SaaS platform with Flask and React
+- 🧠 Learn and build AI/ML systems to solve real-world problems
 - 🌍 Contribute to 3+ open source projects
-- 💼 Land a full-time remote backend developer role
-
----
-
-## 🌍 Open Source Contributions
-
-- 📌 [flask-socketio/flask-socketio](https://github.com/miguelgrinberg/Flask-SocketIO)
-- 🧪 [opensource/example-project](https://github.com/org/project)
+- 💼 Land a full-time remote software developer role
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 Email: youremail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-
-
-
-
+- 📧 Email: [daniell.olaitan@gmail.com](daniell.olaitan@gmail.com) 
+- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
