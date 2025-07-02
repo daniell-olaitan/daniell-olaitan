@@ -22,9 +22,83 @@
 
 *A full-stack web application that allows users to annotate images using bounding boxes and export labeled datasets in COCO format*
 
-> 🛠 Flask · PostgreSQL · Preact · Tailwind CSS · Docker
+> 🛠 Python · JavaScript · Flask · PostgreSQL · Preact · Tailwind CSS · Docker
 
 🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-x)
+
+
+### preach-sync
+
+*Detects Bible references in real-time preaching using speech recognition.*
+
+> 🛠 Python · JaveScript · FastAPI · Preact · Tailwind CSS · WebSockets · Speech-to-Text API
+
+🔗 [GitHub Repository](https://github.com/daniell-olaitan/preach-sync)
+
+
+### annotate-x-express
+
+*A full-stack web application that allows users to annotate images using bounding boxes and export labeled datasets in COCO format*
+
+> 🛠 TypeScript · JavaScript · ExpressJs · NodeJs · Preact · Tailwind CSS
+
+🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-x-express)
+
+## 🎓 Experience
+
+### 👨‍💻 Backend Developer Intern — *Softrays Institute of Technology*
+- Developed REST APIs with Flask and PostgreSQL
+- Implemented secure auth with JWT and deployment via Docker
+
+### 🧪 Freelance Developer — *Algorithm Consultant for PhD Research*
+- Solved a fluid mechanics problem using custom algorithms in Python
+- Delivered what other devs failed to achieve in months
+
+---
+
+## 🔍 Currently Learning
+
+- GraphQL for more flexible APIs
+- CI/CD with GitHub Actions
+- Scalable system design practices
+
+---
+
+## 📚 Certifications
+
+- ✅ ALX Software Engineering Program – *In Progress*
+- ✅ Flask Mega-Tutorial – *by Miguel Grinberg*
+- ✅ CS50x: Introduction to Computer Science – *Harvard*
+
+---
+
+## 🧠 Developer Philosophy
+
+> I aim to build meaningful, maintainable, and scalable backend systems that solve real-world problems. I care about code quality, developer experience, and continuous learning.
+
+---
+
+## 🎯 2025 Goals
+
+- 🧠 Build a secure SaaS platform with Flask and React
+- 🌍 Contribute to 3+ open source projects
+- 💼 Land a full-time remote backend developer role
+
+---
+
+## 🌍 Open Source Contributions
+
+- 📌 [flask-socketio/flask-socketio](https://github.com/miguelgrinberg/Flask-SocketIO)
+- 🧪 [opensource/example-project](https://github.com/org/project)
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: youremail@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+
 
 
 
