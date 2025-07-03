@@ -30,6 +30,34 @@
 
 ## 🌍 Open Source Contributions
 
+**Backend-Builderplate** – GitHub | *Backend Developer*
+**Tech:** Python, Flask, Flask-Bcrypt
+
+* Integrated Flask-Bcrypt for secure password hashing during user registration.
+* Identified and resolved a major bug causing message duplication and inconsistencies.
+* Contributed to improving backend code reliability for scalable starter projects.
+  **Impact:** Strengthened user data security and improved system stability for new backend projects.
+  [github.com/jmartinpizarro/backend-builderplate](https://github.com/jmartinpizarro/backend-builderplate)
+
+
+**PeepDB** – GitHub | *Backend Developer*
+**Tech:** Python, PyMongo
+
+* Implemented MongoDB support using PyMongo, expanding NoSQL inspection capabilities.
+* Wrote test cases and maintained cross-database compatibility standards.
+* Updated documentation and dependency files for smooth MongoDB integration.
+  **Impact:** Made PeepDB a more versatile tool for developers and DB admins working across SQL and NoSQL stacks.
+  [github.com/PeepDB-dev/peepdb](https://github.com/PeepDB-dev/peepdb)
+
+
+**SlurmUtils** – GitHub | *Documentation Contributor*
+**Tech:** Markdown, Git
+
+* Corrected typographical errors in CONTRIBUTING.md for better clarity.
+* Ensured consistent formatting and professional tone across contributor guidelines.
+* Improved accessibility of onboarding documentation for new contributors.
+  **Impact:** Enhanced contributor experience by refining documentation standards.
+  [github.com/charmed-hpc/slurmutils](https://github.com/charmed-hpc/slurmutils)
 
 ---
 
