@@ -165,7 +165,9 @@
 ### ✅ Software Engineering Program – *ALX Africa*
 
 Gained hands-on experience in full-stack software development with a focus on backend engineering.
+
 **Skills & Technologies:** Python, Flask, JavaScript/TypeScript, Git, Linux, MySQL, PostgreSQL, MongoDB, ORMs, HTML, CSS, Jinja2
+
 **Key Topics Covered:** RESTful API design, debugging, data structures and algorithms, database management, deployment using NGINX, and load balancing strategies.
 
 ---
@@ -173,7 +175,9 @@ Gained hands-on experience in full-stack software development with a focus on ba
 ### ✅ AI Career Essentials (AiCE) – *ALX Africa*
 
 Trained in the practical application of AI tools for productivity, collaboration, and decision-making.
+
 **Skills & Topics:** Prompt engineering, AI-powered writing and research, workflow automation, data analysis and visualization, goal tracking, and collaboration with AI.
+
 **Tools Used:** ChatGPT, Gemini, Bing AI, julius.ai, userpersona.dev, Dezgo, RunwayML, Uizard
 
 ---
