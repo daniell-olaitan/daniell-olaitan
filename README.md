@@ -16,15 +16,25 @@
 
 ---
 
-## 🎓 Experience
+## 💼 Experience
 
-### 👨‍💻 Backend Developer Intern — *Softrays Institute of Technology*
-- Developed REST APIs with Flask and PostgreSQL
-- Implemented secure auth with JWT and deployment via Docker
+### **New York Jobs CEO Council Job Simulation – Forage**
 
-### 🧪 Freelance Developer — *Algorithm Consultant for PhD Research*
-- Solved a fluid mechanics problem using custom algorithms in Python
-- Delivered what other devs failed to achieve in months
+*Software Engineering Trainee*
+📍 Remote | 🗓️ May 2024 – June 2024
+
+* Debugged and resolved a critical bug in the automated billing system using Python, restoring full system functionality and ensuring 100% billing accuracy.
+* Improved user experience by building a note-taking feature on invoices using Python, enhancing communication transparency for over 500 simulated users.
+* Optimized Python code following best practices, resulting in a 20% improvement in code maintainability and a smoother user interface experience.
+
+### **Softrays Institute of Technology**
+
+*Backend Engineering Intern*
+📍 Kwara, Nigeria | 🗓️ June 2024 – December 2024
+
+* Refactored data-fetching logic for API endpoints, reducing response latency by 40%, improving overall backend performance.
+* Designed, implemented, and deployed RESTful APIs that enabled new user-facing features, improving service usability and expanding platform capabilities.
+* Collaborated with a cross-functional team to resolve critical server-side bugs, improving system uptime to 99.9% and enhancing platform reliability.
 
 ---
 
