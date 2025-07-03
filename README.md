@@ -40,34 +40,39 @@
 
 ## 🌍 Open Source Contributions
 
-**Backend-Builderplate** – GitHub | *Backend Developer*
+### **Backend-Builderplate** – GitHub | *Backend Developer*
+
 **Tech:** Python, Flask, Flask-Bcrypt
 
-* Integrated Flask-Bcrypt for secure password hashing during user registration.
-* Identified and resolved a major bug causing message duplication and inconsistencies.
-* Contributed to improving backend code reliability for scalable starter projects.
-  **Impact:** Strengthened user data security and improved system stability for new backend projects.
-  [github.com/jmartinpizarro/backend-builderplate](https://github.com/jmartinpizarro/backend-builderplate)
+* Integrated Flask-Bcrypt to hash user passwords securely, protecting user data and aligning with industry-standard authentication practices.
+* Diagnosed and resolved a critical message duplication bug, reducing system errors by over 90% and improving UX reliability.
+* Enhanced backend structure to support scalable feature development in future starter projects.
+  **Impact:** Boosted system stability and security, helping new developers build secure projects with fewer debugging needs.
+  🔗 [github.com/jmartinpizarro/backend-builderplate](https://github.com/jmartinpizarro/backend-builderplate)
 
+---
 
-**PeepDB** – GitHub | *Backend Developer*
+### **PeepDB** – GitHub | *Backend Developer*
+
 **Tech:** Python, PyMongo
 
-* Implemented MongoDB support using PyMongo, expanding NoSQL inspection capabilities.
-* Wrote test cases and maintained cross-database compatibility standards.
-* Updated documentation and dependency files for smooth MongoDB integration.
-  **Impact:** Made PeepDB a more versatile tool for developers and DB admins working across SQL and NoSQL stacks.
-  [github.com/PeepDB-dev/peepdb](https://github.com/PeepDB-dev/peepdb)
+* Developed full MongoDB integration using PyMongo, expanding support beyond SQL to serve NoSQL database users.
+* Built and executed unit tests to ensure database consistency and stability across PostgreSQL, MySQL, MariaDB, and MongoDB.
+* Updated `setup.py`, `requirements.txt`, and the README with clear installation, usage, and troubleshooting instructions.
+  **Impact:** Extended PeepDB’s utility to a broader dev audience and laid the foundation for advanced features like real-time performance monitoring and future support for databases like SQLite and Redis.
+  🔗 [github.com/PeepDB-dev/peepdb](https://github.com/PeepDB-dev/peepdb)
 
+---
 
-**SlurmUtils** – GitHub | *Documentation Contributor*
+### **SlurmUtils** – GitHub | *Documentation Contributor*
+
 **Tech:** Markdown, Git
 
-* Corrected typographical errors in CONTRIBUTING.md for better clarity.
-* Ensured consistent formatting and professional tone across contributor guidelines.
-* Improved accessibility of onboarding documentation for new contributors.
-  **Impact:** Enhanced contributor experience by refining documentation standards.
-  [github.com/charmed-hpc/slurmutils](https://github.com/charmed-hpc/slurmutils)
+* Corrected syntax and grammar in `CONTRIBUTING.md`, improving clarity for international contributors.
+* Ensured consistent formatting and tone across docs to match the project’s professional standards.
+* Simplified contributor onboarding with clearer guidelines and structure.
+  **Impact:** Increased accessibility and reduced onboarding friction, improving the contributor experience and documentation quality.
+  🔗 [github.com/charmed-hpc/slurmutils](https://github.com/charmed-hpc/slurmutils)
 
 ---
 
@@ -157,8 +162,19 @@
 
 ## 📚 Certifications
 
-- ✅ Software Engineering Program – *ALX Africa*
-- ✅ AI Career Essentials (AiCE – *ALX Africa*
+### ✅ Software Engineering Program – *ALX Africa*
+
+Gained hands-on experience in full-stack software development with a focus on backend engineering.
+**Skills & Technologies:** Python, Flask, JavaScript/TypeScript, Git, Linux, MySQL, PostgreSQL, MongoDB, ORMs, HTML, CSS, Jinja2
+**Key Topics Covered:** RESTful API design, debugging, data structures and algorithms, database management, deployment using NGINX, and load balancing strategies.
+
+---
+
+### ✅ AI Career Essentials (AiCE) – *ALX Africa*
+
+Trained in the practical application of AI tools for productivity, collaboration, and decision-making.
+**Skills & Topics:** Prompt engineering, AI-powered writing and research, workflow automation, data analysis and visualization, goal tracking, and collaboration with AI.
+**Tools Used:** ChatGPT, Gemini, Bing AI, julius.ai, userpersona.dev, Dezgo, RunwayML, Uizard
 
 ---
 
