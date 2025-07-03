@@ -28,6 +28,17 @@
 
 ## 💼 Experience
 
+
+
+### **Abundant AI**
+
+*Software Development Intern*
+📍 California, USA (Remote) | 🗓️ April 2025 – June 2025
+
+* Engineered a FilmFreeway festival scraper using Playwright and Mistral AI that extracted and structured data from over **2,200+ festivals**, with built-in recovery, validation, and duplication handling to ensure 100% schema compliance.
+* Built a JobServe UK job scraper that collected and structured **500+ job listings per run**, extracting job metadata such as title, company, salary, and employment type into JSON format for downstream analysis.
+* Resolved a critical dataset loading issue in a Hugging Face-powered application by implementing a **Flask-based video proxy**, increasing accessibility and enabling **100% playback success** for non-authenticated users.
+
 ### **New York Jobs CEO Council Job Simulation – Forage**
 
 *Software Engineering Trainee*
