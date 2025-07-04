@@ -141,7 +141,7 @@
 
 > 🛠 Python · JavaScript · FastAPI · PostgreSQL · Jinja · Preact · Tailwind CSS · Docker
 
-🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-xfastapi)
+🔗 [App Link](https://annotate-x.onrender.com) · [GitHub Repository](https://github.com/daniell-olaitan/annotate-x-fastapi)
 
 
 ### AirBnB Clone
