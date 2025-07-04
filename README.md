@@ -28,8 +28,6 @@
 
 ## 💼 Experience
 
-
-
 ### **Abundant AI**
 
 *Software Development Intern*
