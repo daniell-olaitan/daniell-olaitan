@@ -219,4 +219,9 @@ Trained in the practical application of AI tools for productivity, collaboration
 
 - 📧 Email: daniell.olaitan@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniell-olaitan/)  
-- 🐦 [Twitter](https://twitter.com/daniell_olaitan)  
+- 🐦 [Twitter](https://twitter.com/daniell_olaitan)
+
+---
+
+# [View Resume](https://drive.google.com/file/d/1Pu8GJ4ED3Jvo7PTcHF9513QITsDxKP2D/view?usp=sharing)
+
