@@ -28,7 +28,7 @@
 
 ## 💼 Experience
 
-### **Abundant AI**
+### **Abundant**
 
 *Software Development Intern*
 📍 California, USA (Remote) | 🗓️ April 2025 – June 2025
